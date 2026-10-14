@@ -1,0 +1,6 @@
+{
+  "name": "Hon. Jibril Abu II (Wisdombank) - Official Website",
+  "description": "Official website of Hon. Jibril Abu II (Wisdombank), Member Representing Ajaokuta Constituency in the Kogi State House of Assembly and Chairman, House Committee on Lands.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
